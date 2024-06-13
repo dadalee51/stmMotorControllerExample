@@ -78,7 +78,8 @@ int main(void)
 {
 
   /* USER CODE BEGIN 1 */
-
+//NOTE: this code is not tested, nor anywhere useful, just a stud that makes
+//every code generated from sdk. which seems to be for larger applications
   /* USER CODE END 1 */
 
   /* MCU Configuration--------------------------------------------------------*/
